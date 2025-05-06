@@ -1,4 +1,4 @@
-# Servives
+# Services
 
 * Databases
 * Servers
