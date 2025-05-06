@@ -1,1 +1,6 @@
-# bootstrap
+# Servives
+
+* Databases
+* Servers
+* Kubernetes
+* Networking
